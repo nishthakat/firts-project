@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 25 25" width="25" height="25">
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="M-293 -517L1073 -517L1073 2569L-293 2569Z" />
+		</clipPath>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #ffffff } 
+	</style>
+	<g id="Home page" clip-path="url(#cp1)">
+		<g id="Group 14">
+			<g id="Group 7">
+				<g id="facebook-logo">
+					<path id="Path 3" fill-rule="evenodd" class="shp0" d="M24.78 12.39C24.78 19.23 19.23 24.78 12.39 24.78C5.55 24.78 0 19.23 0 12.39C0 5.55 5.55 0 12.39 0C19.23 0 24.78 5.55 24.78 12.39ZM17.12 6.31L17.12 3.29L14.62 3.29C12.15 3.29 10.46 4.8 10.46 7.57L10.46 9.95L7.66 9.95L7.66 13.19L10.46 13.19L10.46 21.49L13.8 21.49L13.8 13.19L17 13.19L17 9.95L13.8 9.95L13.8 7.89C13.8 6.95 14.06 6.31 15.4 6.31L17.12 6.31L17.12 6.31Z" />
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>
